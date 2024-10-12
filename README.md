@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi there, I'm Marc Bel Fonollosa!
+🎓 I'm currently studying Computer Engineering at UPC FIB (Facultat d'Informàtica de Barcelona). My academic journey has allowed me to dive deep into the world of technology, learning about software development, algorithms, and systems design. I'm passionate about building solutions that combine creativity and functionality.
 
-<!--
-**marcbefo/marcbefo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎶 In addition to my interest in tech, I'm also a musician. Whether it's programming or playing music, I love exploring ways to express creativity through both fields!
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Programming languages: C, C++, x86, MIPS
+- Databases: SQL
+- Version control: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+I'm working on several projects, combining my love for software development and problem-solving. Stay tuned for more!
+## 🎼 Music & Tech
+Aside from my engineering journey, I enjoy spending my time as a musician. Music has taught me a lot about creativity, discipline, and the joy of learning, which I also bring to my approach in programming.
